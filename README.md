@@ -2,6 +2,10 @@
 
 An agent-based epidemiological simulation extending the classic SIR model with exposed states, vaccination, quarantine, and mortality dynamics.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![NetLogo](https://img.shields.io/badge/NetLogo-Agent--Based-green?style=flat)
+
+
 ## 📌 Overview
 
 This NetLogo model simulates disease spread through a population using an **SEIR+ framework** (Susceptible → Exposed → Infected → Recovered), enhanced with:
@@ -92,7 +96,7 @@ This model builds on the classic **SIR compartmental model** (Kermack & McKendri
 
 ## 📝 License
 
-MIT License
+MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
